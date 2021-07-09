@@ -95,72 +95,82 @@ Sequencing Methods</a></li>
 computational modeling reveal about spatial chromatin conformation?</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(40).pdf" style="text-decoration:none;">Design and computational analysis of
 single-cell RNA-sequencing experiments</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(41).pdf" style="text-decoration:none;">OncoNEM: inferring tumor evolution
+from single-cell sequencing data</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(42).pdf" style="text-decoration:none;">Beyond comparisons of means:
+understanding changes in gene expression at the single-cell level</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(43).pdf" style="text-decoration:none;">The potential of single-cell profiling in plants</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(44).pdf" style="text-decoration:none;">Single-cell analysis of long non-coding
+RNAs in the developing human neocortex</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(45).pdf" style="text-decoration:none;">Single-cell profiling of lncRNAs in the
+developing human brain</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(46).pdf" style="text-decoration:none;">Tree inference for single-cell data</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(47).pdf" style="text-decoration:none;">Corey: An Operating System for Many Cores</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(48).pdf" style="text-decoration:none;">CPHash: A Cache-Partitioned Hash Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(47).pdf" style="text-decoration:none;">In silico lineage tracing through single cell transcriptomics identifies a neural stem cell population in planarians</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(48).pdf" style="text-decoration:none;">CEL-Seq2: sensitive highly-multiplexed
+single-cell RNA-Seq</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(49).pdf" style="text-decoration:none;">Scaling Address-Space Operations on Linux with
-TSX</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(49).pdf" style="text-decoration:none;">Single-cell profiling of human
+megakaryocyte-erythroid progenitors identifies distinct megakaryocyte and erythroid differentiation pathways</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(50).pdf" style="text-decoration:none;">Why does cryptographic software fail?
-A case study and open problems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(50).pdf" style="text-decoration:none;">Single-cell sequencing in stem cell biology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(51).pdf" style="text-decoration:none;">Single-cell epigenomics: powerful new
+methods for understanding gene regulation and cell identity</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(52).pdf" style="text-decoration:none;">Application of single-cell RNA sequencing
+in optimizing a combinatorial therapeutic strategy in metastatic renal cell carcinoma</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(53).pdf" style="text-decoration:none;">The Little Manual of
-API Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(53).pdf" style="text-decoration:none;">Pooling across cells to normalize
+single-cell RNA sequencing data with many zero counts</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(54).pdf" style="text-decoration:none;">Design and Applications of a Secure and Decentralized Distributed Hash Table </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(54).pdf" style="text-decoration:none;">Simultaneous profiling of transcriptome
+and DNA methylome from a single cell </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(55).pdf" style="text-decoration:none;">Recovering from intrusions in distributed systems with DARE</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(55).pdf" style="text-decoration:none;">Single-cell analysis of CD4+ T-cell
+differentiation reveals three major cell states and progressive acceleration of proliferation</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(56).pdf" style="text-decoration:none;">Verifying a high-performance crash-safe file system using a tree specification </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(56).pdf" style="text-decoration:none;">Single-cell genomics: coming of age </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(57).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(57).pdf" style="text-decoration:none;">Exploiting single-cell expression to
+characterize co-expression replicability</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(58).pdf" style="text-decoration:none;">Proving confidentiality in a file system using DISKSEC</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(59).pdf" style="text-decoration:none;">Calvin: Fast Distributed Transactions
-for Partitioned Database Systems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(58).pdf" style="text-decoration:none;">Fast and accurate single-cell RNA-seq
+analysis by clustering of transcript-compatibility counts</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(59).pdf" style="text-decoration:none;">Single-cell sequencing reveals karyotype heterogeneity in murine and human malignancies</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(60).pdf" style="text-decoration:none;">Executing Web Application Queries on a Partitioned Database </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(60).pdf" style="text-decoration:none;">SLICER: inferring branched, nonlinear
+cellular trajectories from single cell RNA-seq data </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(61).pdf" style="text-decoration:none;">DNS Performance and the Effectiveness of Caching</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(61).pdf" style="text-decoration:none;">Single-cell whole genome sequencing
+reveals no evidence for common aneuploidy in normal and Alzheimer's disease neurons</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(62).pdf" style="text-decoration:none;">Phase Reconciliation for Contended In-Memory Transactions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(62).pdf" style="text-decoration:none;">Computing tumor trees from single cells</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(63).pdf" style="text-decoration:none;">Locating Cache Performance Bottlenecks Using Data Profiling</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(63).pdf" style="text-decoration:none;">AirLab: a cloud-based platform to manage and share antibody-based single-cell research</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(64).pdf" style="text-decoration:none;">Understanding Real-World Concurrency Bugs in Go</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(64).pdf" style="text-decoration:none;">GiniClust: detecting rare cell types from single-cell gene expression data with Gini index</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(65).pdf" style="text-decoration:none;">Dynamic Computation Migration
-in Distributed Shared Memory Systems </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(65).pdf" style="text-decoration:none;">Single-cell genome-wide bisulfite
+sequencing uncovers extensive heterogeneity in the mouse liver methylome </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(66).pdf" style="text-decoration:none;">Extracting and Optimizing low-level bytecode from High-level verified Coq</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(66).pdf" style="text-decoration:none;">Single-cell RNA-seq reveals novel
+regulators of human embryonic stem cell differentiation to definitive endoderm</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(67).pdf" style="text-decoration:none;">Multiprocessing with the Exokernel Operating System</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(67).pdf" style="text-decoration:none;">Multiplexed, targeted profiling of single-cell proteomes and transcriptomes in a single reaction</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(68).pdf" style="text-decoration:none;">Fast and Flexible Application-Level
-Networking on Exokernel Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(68).pdf" style="text-decoration:none;">A statistical approach for identifying
+differential distributions in single-cell RNA-seq experiments</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(69).pdf" style="text-decoration:none;">Device Transparency: a New Model for Mobile Storage</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(69).pdf" style="text-decoration:none;">Tracing the origin of disseminated tumor cells in breast cancer using single-cell sequencing</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(70).pdf" style="text-decoration:none;">Eyo: Device-Transparent Personal Storage</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(70).pdf" style="text-decoration:none;">Gene expression
+during mitosis</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(71).pdf" style="text-decoration:none;">Measuring the Effects of Internet Path Faults on
-Reactive Routing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(71).pdf" style="text-decoration:none;">Climate and the
+carbon cycle</a></li>
  
  </ul>
    
