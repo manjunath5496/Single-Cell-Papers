@@ -10,7 +10,7 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(3).pdf" style="text-decoration:none;">Identifying cell populations with scRNASeq</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(4).pdf" style="text-decoration:none;">Single-cell Transcriptome Study as Big Data</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(5).pdf" style="text-decoration:none;">U.S. Iran science exchange</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(5).pdf" style="text-decoration:none;">Machine Learning and Statistical Methods for Clustering Single-cell RNA-sequencing Data</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(6).pdf" style="text-decoration:none;">Promoting human
 rights through science</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(7).pdf" style="text-decoration:none;">Evaluation of methods to assign cell type labels to cell clusters from single-cell RNA-sequencing data [version 3; peer review: 2 approved, 1 approved with reservations]</a></li>
@@ -62,8 +62,7 @@ gene reactivation during mitotic exit</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(25).pdf" style="text-decoration:none;">Sensei: How many samples to tell
 evolution in single-cell studies?</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(26).pdf" style="text-decoration:none;">Certifying a File System Using
-Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(26).pdf" style="text-decoration:none;">Single cell transcriptomics: methods and applications</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(27).pdf" style="text-decoration:none;">Comparison of computational methods for
 imputing single-cell RNA-sequencing data</a></li>
    
@@ -85,8 +84,7 @@ Changing your research focus</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(35).pdf" style="text-decoration:none;">Single-Cell RNA-Sequencing:
 Assessment of Differential Expression Analysis Methods</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
-Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(36).pdf" style="text-decoration:none;">Single Cell Analysis: From Technology to Biology and Medicine</a></li> 
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Single-Cell-Papers/blob/master/s(37).pdf" style="text-decoration:none;">Comparative Analysis of Single-Cell RNA
 Sequencing Methods</a></li>
